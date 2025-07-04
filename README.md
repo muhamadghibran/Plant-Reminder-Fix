@@ -63,3 +63,8 @@ Contoh aturan:
 ---
 
 ## 📸 Tampilan Aplikasi
+![image](https://github.com/user-attachments/assets/67713706-6d0e-47fd-925a-5b60d2d591fe)
+
+![image](https://github.com/user-attachments/assets/69c297ef-2aac-48ea-99ff-9e9cf4aa19e5)
+
+![image](https://github.com/user-attachments/assets/5454f649-7752-4819-8532-755c05724822)
