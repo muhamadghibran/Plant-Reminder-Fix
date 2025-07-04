@@ -1,0 +1,179 @@
+{
+  "common": {
+    "appName": "Pengingat Tanaman",
+    "loading": "Memuat...",
+    "error": "Kesalahan",
+    "success": "Berhasil",
+    "save": "Simpan",
+    "cancel": "Batal",
+    "delete": "Hapus",
+    "edit": "Ubah",
+    "add": "Tambah",
+    "remove": "Hapus",
+    "back": "Kembali",
+    "next": "Lanjut",
+    "finish": "Selesai",
+    "confirm": "Konfirmasi",
+    "language": "Bahasa",
+    "complete": "Selesai",
+    "incomplete": "Belum Selesai"
+  },
+  "navigation": {
+    "home": "Beranda",
+    "plants": "Tanaman",
+    "settings": "Pengaturan",
+    "dashboard": "Dasbor"
+  },
+  "welcome": {
+    "title": "Pengingat Tanaman",
+    "subtitle": "Asisten perawatan tanaman berbasis cuaca Anda",
+    "description": "Dapatkan rekomendasi perawatan personal untuk tanaman hias Anda berdasarkan kondisi cuaca. Jangan lupa untuk menyiram, memangkas, atau memupuk lagi!",
+    "getStarted": "Mulai"
+  },
+  "dashboard": {
+    "todaysCare": "Perawatan Tanaman Hari Ini",
+    "weatherTips": "Tips Berdasarkan Cuaca",
+    "noPlants": "Anda belum menambahkan tanaman!",
+    "addPlants": "Tambah Tanaman",
+    "allCaredFor": "Semua tanaman Anda sudah terawat! 🌱",
+    "checkTomorrow": "Periksa kembali besok untuk rekomendasi baru",
+    "managePlants": "Kelola Tanaman"
+  },
+  "tasks": {
+    "water": "Siram Tanaman",
+    "fertilize": "Pupuk Tanaman",
+    "prune": "Pangkas Tanaman",
+    "shade": "Berikan Naungan",
+    "support": "Tambah Penyangga",
+    "drainage": "Periksa Drainase",
+    "waterDescription": "Siram tanaman Anda secara menyeluruh",
+    "fertilizeDescription": "Berikan pupuk untuk mendorong pertumbuhan",
+    "pruneDescription": "Buang daun yang mati atau menguning",
+    "shadeDescription": "Pindahkan tanaman dari sinar matahari langsung",
+    "supportDescription": "Tambahkan tiang atau penyangga untuk stabilitas",
+    "drainageDescription": "Pastikan drainase yang baik untuk mencegah pembusukan akar",
+    "markComplete": "Tandai Selesai",
+    "completed": "Selesai"
+  },
+  "weather": {
+    "sunny": "Perawatan Tanaman Saat Cerah",
+    "rainy": "Perawatan Tanaman Saat Hujan",
+    "cloudy": "Perawatan Tanaman Saat Berawan",
+    "windy": "Perawatan Tanaman Saat Berangin",
+    "clear": "Perawatan Tanaman Saat Cuaca Bersih",
+    "sunnyTip": "Pada hari yang cerah, pantau kelembaban tanah lebih sering karena tanaman dapat mengering lebih cepat. Pertimbangkan untuk memindahkan tanaman sensitif dari sinar matahari langsung.",
+    "rainyTip": "Periksa drainase pada tanaman pot selama periode hujan untuk mencegah pembusukan akar. Tahan penyiraman sampai tanah mengering.",
+    "cloudyTip": "Hari berawan sempurna untuk memindahkan atau transplantasi karena tanaman mengalami lebih sedikit stres tanpa sinar matahari langsung.",
+    "windyTip": "Pertimbangkan untuk membawa tanaman pot kecil ke dalam ruangan atau memberikan perlindungan dari angin kencang. Periksa kelembaban tanah karena angin dapat mengeringkan tanaman.",
+    "clearTip": "Hari yang cerah bagus untuk perawatan tanaman. Periksa hama, pangkas sesuai kebutuhan, dan pastikan penyiraman yang cukup."
+  },
+  "plants": {
+    "search": "Cari tanaman...",
+    "selected": "tanaman dipilih",
+    "selectedPlural": "tanaman dipilih",
+    "noResults": "Tidak ada tanaman yang cocok dengan",
+    "addToGarden": "Tambahkan ke Kebun Saya",
+    "removeFromGarden": "Hapus dari Kebun Saya",
+    "about": "Tentang",
+    "careRequirements": "Kebutuhan Perawatan",
+    "careInstructions": "Instruksi Perawatan",
+    "careHistory": "Riwayat Perawatan",
+    "waterNeeds": "Kebutuhan Air",
+    "light": "Cahaya",
+    "temperature": "Suhu",
+    "height": "Tinggi",
+    "fertilizer": "Pupuk",
+    "names": {
+      "rose": "Mawar",
+      "sunflower": "Bunga Matahari",
+      "jasmine": "Melati",
+      "peace-lily": "Lili Perdamaian",
+      "snake-plant": "Lidah Mertua",
+      "aloe-vera": "Lidah Buaya",
+      "basil": "Kemangi",
+      "lavender": "Lavendel",
+      "orchid": "Anggrek",
+      "fern": "Pakis"
+    },
+    "descriptions": {
+      "rose": "Tanaman berbunga klasik yang dikenal karena bunganya yang indah dan wanginya yang menyenangkan. Mawar adalah simbol cinta dan keindahan, memerlukan tanah yang berdrainase baik dan perawatan rutin untuk menghasilkan bunga yang menakjubkan.",
+      "sunflower": "Tanaman tahunan tinggi yang dikenal karena bunganya yang besar dan kuning cerah yang mengikuti matahari sepanjang hari. Bunga ceria ini dapat tumbuh hingga 3 meter dan sangat baik untuk menarik serangga yang bermanfaat.",
+      "jasmine": "Tanaman merambat atau semak dengan bunga putih atau kuning yang sangat harum yang mekar di malam hari. Aroma manis melati sering digunakan dalam parfum dan teh.",
+      "peace-lily": "Tanaman hias populer dengan bunga putih elegan dan daun hijau gelap mengkilap. Dikenal karena kualitas pembersih udaranya dan kemampuan untuk tumbuh subur dalam kondisi cahaya rendah.",
+      "snake-plant": "Tanaman sukulen yang hampir tidak bisa dihancurkan dengan daun tinggi, kaku, seperti pedang dengan tepi kuning. Pembersih udara yang sangat baik yang melepaskan oksigen di malam hari, membuatnya sempurna untuk kamar tidur.",
+      "aloe-vera": "Tanaman sukulen dengan daun tebal dan berdaging yang mengandung gel obat. Gel bening di dalam daun terkenal untuk menenangkan luka bakar, luka, dan iritasi kulit.",
+      "basil": "Herba aromatik dengan daun hijau cerah, penting dalam masakan Italia dan Thailand. Kemangi segar menambahkan rasa manis dan pedas pada hidangan dan dapat dengan mudah ditanam di dalam atau luar ruangan.",
+      "lavender": "Herba abadi harum dengan paku bunga ungu, dikenal karena sifat menenangkan dan relaksasinya. Sering digunakan dalam aromaterapi, sabun, dan sebagai pengusir serangga alami.",
+      "orchid": "Tanaman berbunga elegan dengan bunga eksotis yang tahan lama dalam berbagai warna dan pola. Tanaman canggih ini dihargai karena keindahannya dan dapat berbunga selama berbulan-bulan dengan perawatan yang tepat.",
+      "fern": "Tanaman hijau subur dengan daun halus seperti bulu yang tumbuh subur di lingkungan lembab dan teduh. Tanaman kuno ini menambahkan nuansa tropis ke ruang mana pun dan sangat baik untuk meningkatkan kualitas udara."
+    },
+    "careInstructions": {
+      "rose": "Mawar membutuhkan tanah yang berdrainase baik dan pemangkasan rutin untuk mendorong pembungaan. Siram di pangkal untuk menghindari daun basah. Waspadai hama seperti kutu daun dan penyakit seperti bercak hitam. Pupuk secara teratur selama musim tanam.",
+      "sunflower": "Bunga matahari relatif mudah ditanam dan membutuhkan paparan sinar matahari penuh. Mereka memerlukan dukungan saat tumbuh lebih tinggi dan penyiraman rutin sampai mapan. Tanam di tanah yang berdrainase baik dengan sirkulasi udara yang baik.",
+      "jasmine": "Melati menyukai kondisi lembab dan kelembaban yang konsisten tetapi tidak tergenang air. Sediakan teralis atau dukungan untuk varietas merambat. Pangkas setelah berbunga untuk mempertahankan bentuk dan mendorong pertumbuhan baru.",
+      "peace-lily": "Lili perdamaian lebih suka lingkungan lembab dan akan layu saat haus, membuatnya mudah dibaca. Jauhkan dari angin dingin dan sinar matahari langsung. Seka daun secara teratur untuk mempertahankan penampilan mengkilapnya.",
+      "snake-plant": "Biarkan tanah mengering sepenuhnya di antara penyiraman karena penyiraman berlebihan dapat menyebabkan pembusukan akar. Dapat mentolerir cahaya rendah tetapi tumbuh lebih cepat dalam cahaya tidak langsung yang lebih terang. Bersihkan debu daun sesekali untuk mempertahankan penampilannya.",
+      "aloe-vera": "Tanam di tanah berpasir yang berdrainase baik dan siram hanya ketika bagian atas tanah benar-benar kering. Berikan sinar matahari tidak langsung yang terang. Waspadai bintik coklat yang mungkin menunjukkan terlalu banyak paparan sinar matahari langsung.",
+      "basil": "Cubit tunas bunga secara teratur untuk mendorong pertumbuhan daun yang berkelanjutan. Panen dari atas untuk mendorong pertumbuhan yang lebih lebat. Jaga tanah tetap lembab secara konsisten tetapi tidak tergenang air. Berikan setidaknya 6 jam sinar matahari setiap hari.",
+      "lavender": "Lavendel membutuhkan drainase yang sangat baik dan lebih suka tanah yang sedikit basa. Pangkas setelah berbunga untuk mempertahankan bentuk kompak dan mendorong pertumbuhan baru. Hindari penyiraman berlebihan karena dapat menyebabkan pembusukan akar.",
+      "orchid": "Gunakan campuran kulit kayu anggrek khusus untuk pot, jangan pernah tanah pot biasa. Siram mingguan dengan merendam akar secara menyeluruh, lalu tiriskan sepenuhnya. Berikan cahaya tidak langsung yang terang dan pertahankan kelembaban di sekitar tanaman.",
+      "fern": "Jaga tanah tetap lembab secara konsisten tetapi tidak tergenang air. Semprotkan secara teratur untuk mempertahankan tingkat kelembaban tinggi. Berikan cahaya tidak langsung yang terang dan hindari sinar matahari langsung yang dapat membakar daun halus."
+    },
+    "fertilizers": {
+      "rose-specific-balanced": "Pupuk seimbang khusus mawar",
+      "balanced--low-nitrogen": "Pupuk seimbang, nitrogen rendah",
+      "balanced--high-phosphorus": "Pupuk seimbang, fosfor tinggi",
+      "balanced-houseplant": "Pupuk tanaman hias seimbang",
+      "cactus-or-succulent": "Pupuk kaktus atau sukulen",
+      "balanced--organic": "Pupuk seimbang, organik",
+      "low-nitrogen": "Pupuk nitrogen rendah",
+      "orchid-specific": "Pupuk khusus anggrek",
+      "balanced--diluted": "Pupuk seimbang, encer"
+    },
+    "wateringFrequency": {
+      "low": "Rendah",
+      "medium": "Sedang",
+      "high": "Tinggi"
+    },
+    "lightPreference": {
+      "full-sun": "Sinar Matahari Penuh",
+      "partial-sun": "Sinar Matahari Sebagian",
+      "shade": "Teduh"
+    }
+  },
+  "settings": {
+    "title": "Pengaturan",
+    "notifications": {
+      "title": "Pengaturan Notifikasi",
+      "dailyReminders": "Pengingat Harian",
+      "description": "Dapatkan notifikasi perawatan tanaman",
+      "reminderTime": "Waktu Pengingat",
+      "enabled": "Notifikasi diaktifkan!",
+      "testMessage": "Notifikasi perawatan tanaman sekarang aktif!"
+    },
+    "appearance": {
+      "title": "Tampilan",
+      "darkMode": "Mode Gelap",
+      "description": "Aktifkan tampilan mode gelap"
+    },
+    "weather": {
+      "title": "Data Cuaca",
+      "refresh": "Perbarui Data Cuaca",
+      "description": "Perbarui informasi cuaca saat ini",
+      "refreshed": "Data cuaca telah diperbarui!"
+    },
+    "data": {
+      "title": "Data Aplikasi",
+      "reset": "Reset Data Aplikasi",
+      "description": "Hapus semua tanaman dan pengaturan",
+      "confirmReset": "Reset Semua Data?",
+      "confirmMessage": "Ini akan menghapus semua tanaman dan pengaturan Anda. Tindakan ini tidak dapat dibatalkan."
+    },
+    "about": {
+      "title": "Tentang",
+      "version": "Versi",
+      "appName": "Pengingat Tanaman",
+      "versionNumber": "1.0.0"
+    }
+  }
+}

@@ -1,0 +1,179 @@
+{
+  "common": {
+    "appName": "Plant Reminder",
+    "loading": "Loading...",
+    "error": "Error",
+    "success": "Success",
+    "save": "Save",
+    "cancel": "Cancel",
+    "delete": "Delete",
+    "edit": "Edit",
+    "add": "Add",
+    "remove": "Remove",
+    "back": "Back",
+    "next": "Next",
+    "finish": "Finish",
+    "confirm": "Confirm",
+    "language": "Language",
+    "complete": "Complete",
+    "incomplete": "Incomplete"
+  },
+  "navigation": {
+    "home": "Home",
+    "plants": "Plants",
+    "settings": "Settings",
+    "dashboard": "Dashboard"
+  },
+  "welcome": {
+    "title": "Plant Reminder",
+    "subtitle": "Your weather-based plant care assistant",
+    "description": "Get personalized care recommendations for your houseplants based on weather conditions. Never forget to water, prune, or fertilize again!",
+    "getStarted": "Get Started"
+  },
+  "dashboard": {
+    "todaysCare": "Today's Plant Care",
+    "weatherTips": "Weather-Based Tips",
+    "noPlants": "You haven't added any plants yet!",
+    "addPlants": "Add Plants",
+    "allCaredFor": "All your plants are taken care of! 🌱",
+    "checkTomorrow": "Check back tomorrow for new recommendations",
+    "managePlants": "Manage Plants"
+  },
+  "tasks": {
+    "water": "Water Plant",
+    "fertilize": "Fertilize Plant",
+    "prune": "Prune Plant",
+    "shade": "Provide Shade",
+    "support": "Add Support",
+    "drainage": "Check Drainage",
+    "waterDescription": "Water your plant thoroughly",
+    "fertilizeDescription": "Apply fertilizer to promote growth",
+    "pruneDescription": "Remove dead or yellowing leaves",
+    "shadeDescription": "Move plant away from direct sunlight",
+    "supportDescription": "Add stakes or support for stability",
+    "drainageDescription": "Ensure proper drainage to prevent root rot",
+    "markComplete": "Mark as Complete",
+    "completed": "Completed"
+  },
+  "weather": {
+    "sunny": "Sunny Day Plant Care",
+    "rainy": "Rainy Day Plant Care",
+    "cloudy": "Cloudy Day Plant Care",
+    "windy": "Windy Day Plant Care",
+    "clear": "Clear Day Plant Care",
+    "sunnyTip": "On sunny days, monitor soil moisture more frequently as plants may dry out faster. Consider moving sensitive plants away from direct sunlight.",
+    "rainyTip": "Check drainage on potted plants during rainy periods to prevent root rot. Hold off on watering until soil dries out.",
+    "cloudyTip": "Cloudy days are perfect for repotting or transplanting as plants experience less stress without direct sunlight.",
+    "windyTip": "Consider bringing smaller potted plants indoors or providing shelter from strong winds. Check soil moisture as wind can dry plants out.",
+    "clearTip": "Clear days are great for plant maintenance. Check for pests, prune as needed, and ensure adequate watering."
+  },
+  "plants": {
+    "search": "Search plants...",
+    "selected": "plant selected",
+    "selectedPlural": "plants selected",
+    "noResults": "No plants found matching",
+    "addToGarden": "Add to My Garden",
+    "removeFromGarden": "Remove from My Garden",
+    "about": "About",
+    "careRequirements": "Care Requirements",
+    "careInstructions": "Care Instructions",
+    "careHistory": "Care History",
+    "waterNeeds": "Water Needs",
+    "light": "Light",
+    "temperature": "Temperature",
+    "height": "Height",
+    "fertilizer": "Fertilizer",
+    "names": {
+      "rose": "Rose",
+      "sunflower": "Sunflower", 
+      "jasmine": "Jasmine",
+      "peace-lily": "Peace Lily",
+      "snake-plant": "Snake Plant",
+      "aloe-vera": "Aloe Vera",
+      "basil": "Basil",
+      "lavender": "Lavender",
+      "orchid": "Orchid",
+      "fern": "Fern"
+    },
+    "descriptions": {
+      "rose": "A classic flowering plant known for its beautiful blooms and pleasant fragrance. Roses are symbols of love and beauty, requiring well-draining soil and regular care to produce their stunning flowers.",
+      "sunflower": "Tall annual plants known for their large, bright yellow blooms that follow the sun throughout the day. These cheerful flowers can grow up to 3 meters tall and are excellent for attracting beneficial insects.",
+      "jasmine": "Climbing vines or shrubs with intensely fragrant white or yellow flowers that bloom in the evening. The sweet scent of jasmine is often used in perfumes and teas.",
+      "peace-lily": "Popular indoor plant with elegant white flowers and glossy dark green leaves. Known for its air-purifying qualities and ability to thrive in low-light conditions.",
+      "snake-plant": "Nearly indestructible succulent plant with tall, stiff, sword-like leaves featuring yellow edges. Excellent air purifier that releases oxygen at night, making it perfect for bedrooms.",
+      "aloe-vera": "Succulent plant with thick, fleshy leaves containing medicinal gel. The clear gel inside the leaves is renowned for soothing burns, cuts, and skin irritations.",
+      "basil": "Aromatic herb with bright green leaves, essential in Italian and Thai cuisines. Fresh basil adds a sweet, peppery flavor to dishes and can be easily grown indoors or outdoors.",
+      "lavender": "Fragrant perennial herb with purple flower spikes, known for its calming and relaxing properties. Often used in aromatherapy, soaps, and as a natural insect repellent.",
+      "orchid": "Elegant flowering plants with exotic, long-lasting blooms in various colors and patterns. These sophisticated plants are prized for their beauty and can bloom for months with proper care.",
+      "fern": "Lush green plants with delicate, feathery fronds that thrive in humid, shaded environments. These ancient plants add a tropical feel to any space and are excellent for improving air quality."
+    },
+    "careInstructions": {
+      "rose": "Roses need well-draining soil and regular pruning to encourage blooming. Water at the base to avoid wet leaves. Watch for pests like aphids and diseases like blackspot. Fertilize regularly during growing season.",
+      "sunflower": "Sunflowers are relatively easy to grow and need full sun exposure. They require support as they grow taller and regular watering until established. Plant in well-draining soil with good air circulation.",
+      "jasmine": "Jasmine likes humid conditions and consistent moisture but not waterlogged soil. Provide a trellis or support for climbing varieties. Prune after flowering to maintain shape and encourage new growth.",
+      "peace-lily": "Peace lilies prefer humid environments and will droop when thirsty, making them easy to read. Keep away from cold drafts and direct sunlight. Wipe leaves regularly to maintain their glossy appearance.",
+      "snake-plant": "Allow soil to dry completely between waterings as overwatering can cause root rot. Can tolerate low light but grows faster in brighter, indirect light. Dust leaves occasionally to maintain their appearance.",
+      "aloe-vera": "Plant in well-draining, sandy soil and water only when the top inch of soil is completely dry. Provide bright, indirect sunlight. Watch for brown spots which may indicate too much direct sun exposure.",
+      "basil": "Pinch off flower buds regularly to encourage continued leaf growth. Harvest from the top to promote bushier growth. Keep soil consistently moist but not waterlogged. Provide at least 6 hours of sunlight daily.",
+      "lavender": "Lavender needs excellent drainage and prefers slightly alkaline soil. Prune after flowering to maintain compact shape and promote new growth. Avoid overwatering as it can cause root rot.",
+      "orchid": "Use specialized orchid bark mix for potting, never regular potting soil. Water weekly by soaking roots thoroughly, then drain completely. Provide bright, indirect light and maintain humidity around the plant.",
+      "fern": "Keep soil consistently moist but not waterlogged. Mist regularly to maintain high humidity levels. Provide bright, indirect light and avoid direct sunlight which can scorch the delicate fronds."
+    },
+    "fertilizers": {
+      "rose-specific balanced": "Rose-specific balanced fertilizer",
+      "balanced, low-nitrogen": "Balanced, low-nitrogen fertilizer",
+      "balanced, high-phosphorus": "Balanced, high-phosphorus fertilizer",
+      "balanced houseplant": "Balanced houseplant fertilizer",
+      "cactus or succulent": "Cactus or succulent fertilizer",
+      "balanced, organic": "Balanced, organic fertilizer",
+      "low-nitrogen": "Low-nitrogen fertilizer",
+      "orchid-specific": "Orchid-specific fertilizer",
+      "balanced, diluted": "Balanced, diluted fertilizer"
+    },
+    "wateringFrequency": {
+      "low": "Low",
+      "medium": "Medium", 
+      "high": "High"
+    },
+    "lightPreference": {
+      "full sun": "Full Sun",
+      "partial sun": "Partial Sun",
+      "shade": "Shade"
+    }
+  },
+  "settings": {
+    "title": "Settings",
+    "notifications": {
+      "title": "Notification Settings",
+      "dailyReminders": "Daily Reminders",
+      "description": "Get plant care notifications",
+      "reminderTime": "Reminder Time",
+      "enabled": "Notifications enabled!",
+      "testMessage": "Plant care notifications are now active!"
+    },
+    "appearance": {
+      "title": "Appearance",
+      "darkMode": "Dark Mode",
+      "description": "Toggle dark mode appearance"
+    },
+    "weather": {
+      "title": "Weather Data",
+      "refresh": "Refresh Weather Data",
+      "description": "Update current weather information",
+      "refreshed": "Weather data refreshed!"
+    },
+    "data": {
+      "title": "App Data",
+      "reset": "Reset App Data",
+      "description": "Clear all plants and settings",
+      "confirmReset": "Reset All Data?",
+      "confirmMessage": "This will remove all your plants and settings. This action cannot be undone."
+    },
+    "about": {
+      "title": "About",
+      "version": "Version",
+      "appName": "Plant Reminder",
+      "versionNumber": "1.0.0"
+    }
+  }
+}
