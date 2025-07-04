@@ -58,7 +58,8 @@ Contoh aturan:
 - 🌙 Mode gelap / terang  
 - 🌐 Dukungan multi-bahasa (Indonesia & Inggris)  
 - 🔔 Pengingat harian berbasis notifikasi  
-- 📱 Desain responsif untuk semua perangkat  
+- 📱 Desain responsif untuk semua perangkat 
+- 💡 Memberikan tips langsung dari AI Gemini
 
 ---
 
