@@ -19,6 +19,12 @@ Aplikasi Plant Reminder merupakan aplikasi berbasis web yang bertujuan membantu 
 
 ---
 
+## 📱 Banner Promosi
+![Gambar WhatsApp 2025-07-05 pukul 10 22 31_91cb9b51](https://github.com/user-attachments/assets/2ad100c0-6e24-41d4-a6c1-66459424c870)
+
+
+---
+
 ## 🎯 Tujuan Proyek  
 - Membangun aplikasi interaktif berbasis web yang merekomendasikan perawatan tanaman berdasarkan cuaca.  
 - Mengelola data tanaman dan cuaca menggunakan React Context API.  
